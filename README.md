@@ -1,3 +1,4 @@
+![notification](https://user-images.githubusercontent.com/72456817/112996771-c30f7e00-916c-11eb-9620-3cc55ad40cff.gif)
 # flutter_notifications_app
 
 A new Flutter application.
